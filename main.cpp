@@ -1,5 +1,5 @@
 /*
-Joe Hollon
+Baric
 cis 1202
 july 20 2018
 Parent = Child ship classes
